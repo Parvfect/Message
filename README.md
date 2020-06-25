@@ -1,2 +1,3 @@
 # Message
-It's a kivyapp that I am learning from sentdex senpai
+It's a kivy messaging app.
+#not deployed
